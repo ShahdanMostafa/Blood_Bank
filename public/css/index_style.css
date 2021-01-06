@@ -663,6 +663,23 @@ footer i
         font-size: small !important;
         background-color:  #940315;
     }
+    table {
+		  font-family: arial, sans-serif;
+		  border-collapse: collapse;
+		}
+
+		td, th {
+		  border: 1px solid #dddddd;
+		  text-align: left;
+		  padding: 8px;
+		}
+		th{
+			background-color: lightblue;
+		}
+		tr:nth-child(even) {
+		  background-color: #dddddd;
+    }
+    
     /*---------- contactPage-----------------------*/
     #contact p
     {
