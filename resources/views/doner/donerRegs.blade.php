@@ -162,7 +162,28 @@
                         <button id="addBtn" type="submit" class="btn btn-lg rounded-0">SEND
                             MESSAGE</button>
                     </form>
-
+                <table>
+                  <tr>
+                    <th>NO</th>
+                    <th>Details</th>
+                  </tr>
+                  <tr>
+                    <td>  1  </td>
+                    <td>   Shahdan Mostafa </br> 27 yrs </br> (+2) 01069672692 </td>
+                  </tr>
+                  <tr>
+                    <td>  2  </td>
+                    <td>   Hend Mohamed </br> 27 yrs </br> (+2) 01069672692 </td>
+                  </tr>
+                  <tr>
+                    <td>  3  </td>
+                    <td>   Romaisaa </br> 27 yrs </br> (+2) 01069672692 </td>
+                  </tr>
+                  <tr>
+                    <td>  4  </td>
+                    <td>   Merna </br> 27 yrs </br> (+2) 01069672692 </td>
+                  </tr>
+                </table>
 
                 </div>
                 <div class="col-md-1"></div>
